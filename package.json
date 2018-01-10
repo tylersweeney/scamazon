@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "tylersweeney",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^4.0.1",
