@@ -4,10 +4,10 @@
 
 For this assignment I created a mySQL database called <scamazon.js>
 the database contains a table that lists:
-*item_id (unique id for each product)
-*product_name (Name of product)
-*department_name
-*price (cost to customer)
+* item_id (unique id for each product)
+* product_name (Name of product)
+* department_name
+* price (cost to customer)
 
 I then populated the list with some of the fake products from the TV show 'Its Always Sunny In Philidelphia' 
 So, you may recognize some of these items!
